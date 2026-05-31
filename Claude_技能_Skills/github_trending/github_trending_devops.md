@@ -1,12 +1,48 @@
 # 🌟 GitHub 热门项目 - DevOps
 
-> 自动生成时间: 2026-06-01 03:02:39
+> 自动生成时间: 2026-06-01 03:14:48
 > 最小 Star 数: 500
 > 更新周期: 每天
 
 ## 📊 热门项目列表
 
-### 1. [netdata/netdata](https://github.com/netdata/netdata)
+### 1. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+
+⭐ **122,584** stars | 🍴 43,223 forks | 💻 Go
+
+📝 **描述**: Production-Grade Container Scheduling and Management
+
+🏷️ **标签**: cncf, containers, go, kubernetes
+
+📅 **最后更新**: 2026-05-31
+
+---
+
+### 2. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+⭐ **87,481** stars | 🍴 7,926 forks | 💻 JavaScript
+
+📝 **描述**: A fancy self-hosted monitoring tool
+
+🏷️ **标签**: docker, monitor, monitoring, responsive, self-hosted
+
+📅 **最后更新**: 2026-05-31
+
+---
+
+### 3. [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
+⭐ **79,929** stars | 🍴 7,005 forks | 💻 TypeScript
+
+📝 **描述**: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
+🏷️ **标签**: docker, hacktoberfest, java, pdf, pdf-converter
+
+📅 **最后更新**: 2026-05-31
+
+---
+
+### 4. [netdata/netdata](https://github.com/netdata/netdata)
 
 ⭐ **78,992** stars | 🍴 6,448 forks | 💻 C
 
@@ -18,109 +54,73 @@
 
 ---
 
-### 2. [go-gitea/gitea](https://github.com/go-gitea/gitea)
+### 5. [moby/moby](https://github.com/moby/moby)
 
-⭐ **56,040** stars | 🍴 6,758 forks | 💻 Go
+⭐ **71,608** stars | 🍴 18,960 forks | 💻 Go
 
-📝 **描述**: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+📝 **描述**: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
-🏷️ **标签**: bitbucket, cicd, devops, docker-registry-v2, git
-
-📅 **最后更新**: 2026-05-31
-
----
-
-### 3. [getsentry/sentry](https://github.com/getsentry/sentry)
-
-⭐ **44,004** stars | 🍴 4,715 forks | 💻 Python
-
-📝 **描述**: Developer-first error tracking and performance monitoring
-
-🏷️ **标签**: apm, crash-reporting, crash-reports, csp-report, devops
+🏷️ **标签**: containers, docker, go, golang
 
 📅 **最后更新**: 2026-05-31
 
 ---
 
-### 4. [Kong/kong](https://github.com/Kong/kong)
+### 6. [traefik/traefik](https://github.com/traefik/traefik)
 
-⭐ **43,496** stars | 🍴 5,144 forks | 💻 Lua
+⭐ **63,381** stars | 🍴 6,025 forks | 💻 Go
 
-📝 **描述**: 🦍 The API and AI Gateway
+📝 **描述**: The Cloud Native Application Proxy
 
-🏷️ **标签**: ai, ai-gateway, api-gateway, api-management, apis
-
-📅 **最后更新**: 2026-05-31
-
----
-
-### 5. [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
-
-⭐ **34,380** stars | 🍴 2,553 forks | 💻 TypeScript
-
-📝 **描述**: Open Source Alternative to Vercel, Netlify and Heroku.
-
-🏷️ **标签**: backend, backups, databases, deployment, devops
+🏷️ **标签**: consul, docker, etcd, go, golang
 
 📅 **最后更新**: 2026-05-31
 
 ---
 
-### 6. [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+### 7. [usememos/memos](https://github.com/usememos/memos)
 
-⭐ **34,101** stars | 🍴 2,035 forks | 💻 None
+⭐ **60,271** stars | 🍴 4,437 forks | 💻 Go
 
-📝 **描述**: A curated list of amazingly awesome open-source sysadmin resources.
+📝 **描述**: Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 
-🏷️ **标签**: awesome, awesome-list, devops, list, ops
-
-📅 **最后更新**: 2026-05-31
-
----
-
-### 7. [dokku/dokku](https://github.com/dokku/dokku)
-
-⭐ **31,909** stars | 🍴 2,040 forks | 💻 Shell
-
-📝 **描述**: A docker-powered PaaS that helps you build and manage the lifecycle of applications
-
-🏷️ **标签**: buildpack, containers, devops, docker, dokku
+🏷️ **标签**: docker, foss, go, markdown, memo
 
 📅 **最后更新**: 2026-05-31
 
 ---
 
-### 8. [kestra-io/kestra](https://github.com/kestra-io/kestra)
+### 8. [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 
-⭐ **26,932** stars | 🍴 2,602 forks | 💻 Java
+⭐ **58,632** stars | 🍴 24,466 forks | 💻 Python
 
-📝 **描述**: Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+📝 **描述**: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 
-🏷️ **标签**: automation, data-orchestration, devops, hacktoberfest, high-availability
-
-📅 **最后更新**: 2026-05-31
-
----
-
-### 9. [yeasy/docker_practice](https://github.com/yeasy/docker_practice)
-
-⭐ **26,073** stars | 🍴 5,790 forks | 💻 Go
-
-📝 **描述**: 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
-
-🏷️ **标签**: book, cloud-computing, container, devops, docker
+🏷️ **标签**: ai, bark, data-analysis, docker, hot-news
 
 📅 **最后更新**: 2026-05-31
 
 ---
 
-### 10. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+### 9. [coollabsio/coolify](https://github.com/coollabsio/coolify)
 
-⭐ **25,307** stars | 🍴 9,494 forks | 💻 Java
+⭐ **56,258** stars | 🍴 4,679 forks | 💻 PHP
 
-📝 **描述**: Jenkins automation server
+📝 **描述**: An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-🏷️ **标签**: cicd, continuous-delivery, continuous-deployment, continuous-integration, devops
+🏷️ **标签**: coolify, databases, deployment, docker, docker-compose
+
+📅 **最后更新**: 2026-05-31
+
+---
+
+### 10. [appwrite/appwrite](https://github.com/appwrite/appwrite)
+
+⭐ **56,184** stars | 🍴 5,404 forks | 💻 TypeScript
+
+📝 **描述**: Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+
+🏷️ **标签**: android, appwrite, backend, backend-as-a-service, docker
 
 📅 **最后更新**: 2026-05-31
 
