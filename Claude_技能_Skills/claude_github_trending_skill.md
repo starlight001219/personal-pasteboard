@@ -4,7 +4,7 @@
 
 这是一个自动更新的 Claude skill，包含 GitHub 上最热门的开源项目信息。
 
-**最后更新**: 2026-06-01 03:22:42
+**最后更新**: 2026-06-01 03:29:13
 **项目总数**: 30
 
 ## 使用方法
@@ -13,7 +13,7 @@
 
 当用户询问网络安全相关问题时，可以参考以下项目：
 
-#### sherlock-project/sherlock (⭐ 84,288)
+#### sherlock-project/sherlock (⭐ 84,289)
 - **用途**: Hunt down social media accounts by username across social networks
 - **语言**: Python
 - **链接**: https://github.com/sherlock-project/sherlock
@@ -47,12 +47,12 @@
 
 当用户询问软件开发相关问题时，可以参考以下项目：
 
-#### public-apis/public-apis (⭐ 438,177)
+#### public-apis/public-apis (⭐ 438,180)
 - **用途**: A collective list of free APIs
 - **语言**: Python
 - **链接**: https://github.com/public-apis/public-apis
 
-#### vinta/awesome-python (⭐ 300,581)
+#### vinta/awesome-python (⭐ 300,582)
 - **用途**: An opinionated list of Python frameworks, libraries, tools, and resources
 - **语言**: Python
 - **链接**: https://github.com/vinta/awesome-python
@@ -67,19 +67,24 @@
 - **语言**: Python
 - **链接**: https://github.com/521xueweihan/HelloGitHub
 
+#### Kong/kong (⭐ 43,496)
+- **用途**: 🦍 The API and AI Gateway
+- **语言**: Lua
+- **链接**: https://github.com/Kong/kong
+
 ## 项目分类
 
 ### 按 Star 数排序 (Top 10)
 
-1. **public-apis/public-apis** - ⭐ 438,177 stars
-2. **EbookFoundation/free-programming-books** - ⭐ 389,293 stars
-3. **vinta/awesome-python** - ⭐ 300,581 stars
+1. **public-apis/public-apis** - ⭐ 438,180 stars
+2. **EbookFoundation/free-programming-books** - ⭐ 389,295 stars
+3. **vinta/awesome-python** - ⭐ 300,582 stars
 4. **facebook/react** - ⭐ 245,353 stars
-5. **affaan-m/ECC** - ⭐ 200,215 stars
+5. **affaan-m/ECC** - ⭐ 200,235 stars
 6. **trekhleb/javascript-algorithms** - ⭐ 196,013 stars
-7. **Significant-Gravitas/AutoGPT** - ⭐ 184,670 stars
-8. **NousResearch/hermes-agent** - ⭐ 174,546 stars
-9. **huggingface/transformers** - ⭐ 161,108 stars
+7. **Significant-Gravitas/AutoGPT** - ⭐ 184,671 stars
+8. **NousResearch/hermes-agent** - ⭐ 174,552 stars
+9. **huggingface/transformers** - ⭐ 161,110 stars
 10. **521xueweihan/HelloGitHub** - ⭐ 159,509 stars
 
 

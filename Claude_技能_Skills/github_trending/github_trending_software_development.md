@@ -1,6 +1,6 @@
 # 🌟 GitHub 热门项目 - 软件开发
 
-> 自动生成时间: 2026-06-01 03:14:37
+> 自动生成时间: 2026-06-01 03:29:03
 > 最小 Star 数: 500
 > 更新周期: 每天
 
@@ -8,7 +8,7 @@
 
 ### 1. [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
-⭐ **438,177** stars | 🍴 48,024 forks | 💻 Python
+⭐ **438,180** stars | 🍴 48,024 forks | 💻 Python
 
 📝 **描述**: A collective list of free APIs
 
@@ -20,7 +20,7 @@
 
 ### 2. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
-⭐ **389,293** stars | 🍴 66,365 forks | 💻 Python
+⭐ **389,295** stars | 🍴 66,367 forks | 💻 Python
 
 📝 **描述**: :books: Freely available programming books
 
@@ -32,7 +32,7 @@
 
 ### 3. [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
-⭐ **300,581** stars | 🍴 28,007 forks | 💻 Python
+⭐ **300,582** stars | 🍴 28,007 forks | 💻 Python
 
 📝 **描述**: An opinionated list of Python frameworks, libraries, tools, and resources
 
@@ -56,7 +56,7 @@
 
 ### 5. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
-⭐ **200,215** stars | 🍴 30,733 forks | 💻 JavaScript
+⭐ **200,235** stars | 🍴 30,734 forks | 💻 JavaScript
 
 📝 **描述**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
@@ -80,7 +80,7 @@
 
 ### 7. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
-⭐ **184,670** stars | 🍴 46,202 forks | 💻 Python
+⭐ **184,671** stars | 🍴 46,201 forks | 💻 Python
 
 📝 **描述**: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
@@ -92,7 +92,7 @@
 
 ### 8. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
-⭐ **174,546** stars | 🍴 29,646 forks | 💻 Python
+⭐ **174,552** stars | 🍴 29,647 forks | 💻 Python
 
 📝 **描述**: The agent that grows with you
 
@@ -104,7 +104,7 @@
 
 ### 9. [huggingface/transformers](https://github.com/huggingface/transformers)
 
-⭐ **161,108** stars | 🍴 33,374 forks | 💻 Python
+⭐ **161,110** stars | 🍴 33,374 forks | 💻 Python
 
 📝 **描述**: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 
