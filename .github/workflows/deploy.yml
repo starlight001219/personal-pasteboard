@@ -1,0 +1,36 @@
+name: Deploy
+
+on:
+  workflow_dispatch:
+  release:
+    types: [published]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'release'
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Deploy to server via SSH
+      uses: appleboy/ssh-action@v1
+      with:
+        host: ${{ secrets.DEPLOY_HOST }}
+        username: ${{ secrets.DEPLOY_USER }}
+        key: ${{ secrets.DEPLOY_SSH_KEY }}
+        port: ${{ secrets.DEPLOY_PORT || 22 }}
+        script: |
+          cd /opt/personal-pasteboard
+          git pull origin main
+          docker compose down
+          docker compose up -d --build
+          echo "Deployment completed at $(date)"
+
+    - name: Verify deployment
+      if: success()
+      run: |
+        sleep 10
+        curl -f https://${{ secrets.DOMAIN }}/health || exit 1
+        echo "Health check passed!"
