@@ -1,0 +1,18 @@
+{
+  "merged_at": "2026-06-01T03:22:42.982404",
+  "total_projects": 30,
+  "categories": {
+    "cybersecurity": 10,
+    "devops": 10,
+    "software_development": 10
+  },
+  "files_merged": [
+    "C:\\Users\\联想\\personal-pasteboard\\Claude_技能_Skills\\github_trending\\github_trending_cybersecurity.md",
+    "C:\\Users\\联想\\personal-pasteboard\\Claude_技能_Skills\\github_trending\\github_trending_devops.md",
+    "C:\\Users\\联想\\personal-pasteboard\\Claude_技能_Skills\\github_trending\\github_trending_software_development.md"
+  ],
+  "output_files": [
+    "C:\\Users\\联想\\personal-pasteboard\\Claude_技能_Skills\\github_trending_merged.md",
+    "C:\\Users\\联想\\personal-pasteboard\\Claude_技能_Skills\\claude_github_trending_skill.md"
+  ]
+}

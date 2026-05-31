@@ -1,0 +1,62 @@
+﻿name: Merge Claude Skills
+
+on:
+  schedule:
+    # 每天 UTC 01:00 运行 (北京时间 09:00)
+    # 在 trending-skills 之后运行
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge-skills:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+        
+    - name: Run skill merger
+      run: |
+        cd scripts/github-skills
+        python merge_skills.py
+        
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if git diff --quiet; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add Claude_技能_Skills/
+        git commit -m "🤖 Auto-merge Claude skills: $(date +%Y-%m-%d)"
+        git push
+        
+    - name: Summary
+      if: always()
+      run: |
+        echo "## 📊 Merge Results" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "Claude_技能_Skills/merge_stats.json" ]; then
+          cat "Claude_技能_Skills/merge_stats.json" | jq -r '
+            "- **Total Projects**: \(.total_projects)",
+            "- **Merged At**: \(.merged_at)",
+            "- **Files Merged**: \(.files_merged | length)"
+          ' >> $GITHUB_STEP_SUMMARY
+        fi
