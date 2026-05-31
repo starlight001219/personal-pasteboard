@@ -1,0 +1,15 @@
+{
+  "name": "personal-pasteboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private encrypted pasteboard for personal use.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test tests/*.test.js",
+    "check": "node --check src/server.js && node --check src/storage.js && node --check src/security.js && node --check public/app.js && node --check scripts/generate-background.js && node --check scripts/generate-secrets.js && node --check tests/server.test.js && node --check tests/storage.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

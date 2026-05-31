@@ -1,0 +1,7 @@
+[Unit]
+Description=Backup personal pasteboard encrypted data
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/personal-pasteboard
+ExecStart=/bin/sh /opt/personal-pasteboard/scripts/backup.sh

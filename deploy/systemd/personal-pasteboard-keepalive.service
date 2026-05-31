@@ -1,0 +1,7 @@
+[Unit]
+Description=Keep personal pasteboard active
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/personal-pasteboard
+ExecStart=/bin/sh /opt/personal-pasteboard/scripts/keepalive.sh

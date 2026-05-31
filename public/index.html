@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex,nofollow">
+    <title>个人粘贴板</title>
+    <link rel="stylesheet" href="/app.css">
+  </head>
+  <body>
+    <div class="backdrop" aria-hidden="true"></div>
+    <main class="shell">
+      <section class="login-view" id="loginView">
+        <div class="brand">
+          <span class="brand-mark"></span>
+          <div>
+            <h1>个人粘贴板</h1>
+            <p>加密保存，只供本人访问。</p>
+          </div>
+        </div>
+        <form class="login-form" id="loginForm">
+          <label for="password">访问密码</label>
+          <input id="password" name="password" type="password" autocomplete="current-password" minlength="12" required>
+          <button type="submit">进入</button>
+          <p class="form-message" id="loginMessage" role="status"></p>
+        </form>
+      </section>
+
+      <section class="app-view is-hidden" id="appView">
+        <aside class="sidebar">
+          <div class="sidebar-top">
+            <div class="brand compact">
+              <span class="brand-mark"></span>
+              <div>
+                <h1>粘贴板</h1>
+                <p id="pasteCount">0 条</p>
+              </div>
+            </div>
+            <button class="new-button" id="newPasteButton" type="button" title="新建粘贴">+ 新建</button>
+          </div>
+          <div class="search-row">
+            <input id="searchInput" type="search" placeholder="搜索标题、内容或标签" autocomplete="off">
+          </div>
+          <div class="paste-list" id="pasteList" aria-label="粘贴列表"></div>
+        </aside>
+
+        <section class="editor">
+          <div class="editor-toolbar">
+            <input id="titleInput" class="title-input" placeholder="标题" maxlength="120">
+            <div class="toolbar-actions">
+              <button id="musicButton" type="button" title="背景音乐">Music</button>
+              <button id="settingsButton" type="button">设置</button>
+              <button id="previewWallpaperButton" type="button">预览壁纸</button>
+              <button id="copyButton" type="button">复制</button>
+              <button id="pinButton" type="button">置顶</button>
+              <button id="deleteButton" class="danger" type="button">删除</button>
+              <button id="logoutButton" type="button">退出</button>
+            </div>
+          </div>
+          <input id="tagsInput" class="tags-input" placeholder="标签，用逗号分隔">
+          <textarea id="contentInput" spellcheck="false" placeholder="在这里保存重要片段、命令、密钥备注或临时文字。"></textarea>
+          <div class="status-row">
+            <span id="saveState">未保存</span>
+            <span id="updatedAt"></span>
+          </div>
+        </section>
+      </section>
+    </main>
+    <dialog class="settings-dialog" id="settingsDialog">
+      <form method="dialog" class="settings-panel">
+        <div class="settings-head">
+          <h2>个人设置</h2>
+          <button id="closeSettingsButton" type="button" title="关闭">×</button>
+        </div>
+        <label class="upload-row">
+          <span>
+            <strong>背景图片</strong>
+            <small>支持 PNG、JPG、WebP，最大 12 MB</small>
+          </span>
+          <input id="backgroundFileInput" type="file" accept="image/png,image/jpeg,image/webp">
+        </label>
+        <label class="upload-row">
+          <span>
+            <strong>背景音乐</strong>
+            <small>支持 MP3、M4A、AAC、FLAC、WAV、OGG，最大 12 MB；NCM 需先转换</small>
+          </span>
+          <input id="musicFileInput" type="file" accept="audio/mpeg,audio/mp3,audio/mp4,audio/aac,audio/flac,audio/x-flac,audio/wav,audio/ogg,.mp3,.m4a,.aac,.flac,.wav,.ogg,.ncm">
+        </label>
+        <p class="settings-message" id="settingsMessage" role="status"></p>
+      </form>
+    </dialog>
+    <audio id="bgMusic" preload="metadata" loop src="/assets/music.mp3"></audio>
+    <script src="/app.js"></script>
+  </body>
+</html>
