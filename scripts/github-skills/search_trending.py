@@ -190,7 +190,8 @@ def main():
     all_results = {}
     
     for category in CATEGORIES:
-        print(f"\n🔎 搜索类别: {CATEGORIES[category]["name"]}")
+        cat_name = CATEGORIES[category]["name"]
+        print(f"\n🔎 搜索类别: {cat_name}")
         repos = get_trending_repos(category)
         
         if repos:
