@@ -99,7 +99,8 @@ def generate_skill_content(category, repos):
     """生成 skill 文件内容"""
     category_info = CATEGORIES[category]
     
-    content = f"""# 🌟 GitHub 热门项目 - {category_info["name"]}
+    cat_name = category_info["name"]
+    content = f"""# 🌟 GitHub 热门项目 - {cat_name}
 
 > 自动生成时间: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
 > 最小 Star 数: {MIN_STARS}
@@ -118,7 +119,8 @@ def generate_skill_content(category, repos):
         url = repo["html_url"]
         updated_at = repo["updated_at"][:10]
         
-        content += f"""### {i}. [{repo["full_name"]}]({url})
+        repo_name = repo["full_name"]
+        content += f"""### {i}. [{repo_name}]({url})
 
 ⭐ **{stars:,}** stars | 🍴 {forks:,} forks | 💻 {language}
 
@@ -222,7 +224,8 @@ def main():
         json.dump(summary, f, indent=2, ensure_ascii=False)
     
     print(f"\n✅ 扫描完成！")
-    print(f"📊 共找到 {summary["total_projects"]} 个热门项目")
+    total = summary["total_projects"]
+    print(f"📊 共找到 {total} 个热门项目")
     print(f"📁 生成 {len(created_files)} 个 skill 文件")
     print(f"📄 汇总报告: {summary_file}")
     
