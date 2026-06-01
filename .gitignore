@@ -36,3 +36,4 @@ logs/
 
 # Secrets (never commit these)
 DEPLOYMENT-SECRETS.txt
+scripts/__pycache__/
