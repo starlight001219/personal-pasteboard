@@ -4,7 +4,7 @@
 
 这是一个自动更新的 Claude skill，包含 GitHub 上最热门的开源项目信息。
 
-**最后更新**: 2026-07-15 03:54:22
+**最后更新**: 2026-07-16 03:57:39
 **项目总数**: 30
 
 ## 使用方法
@@ -85,9 +85,9 @@
 
 ### 按类别统计
 
-- **Cybersecurity**: 10 个项目
-- **Software Development**: 10 个项目
 - **Devops**: 10 个项目
+- **Software Development**: 10 个项目
+- **Cybersecurity**: 10 个项目
 
 
 ## 常见问题解答
