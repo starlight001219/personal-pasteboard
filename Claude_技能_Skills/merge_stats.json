@@ -1,14 +1,14 @@
 {
-  "merged_at": "2026-07-23T04:10:53.023259",
+  "merged_at": "2026-07-24T04:09:57.206967",
   "total_projects": 30,
   "categories": {
-    "devops": 10,
     "software_development": 10,
+    "devops": 10,
     "cybersecurity": 10
   },
   "files_merged": [
-    "/home/runner/work/personal-pasteboard/personal-pasteboard/Claude_技能_Skills/github_trending/github_trending_devops.md",
     "/home/runner/work/personal-pasteboard/personal-pasteboard/Claude_技能_Skills/github_trending/github_trending_software_development.md",
+    "/home/runner/work/personal-pasteboard/personal-pasteboard/Claude_技能_Skills/github_trending/github_trending_devops.md",
     "/home/runner/work/personal-pasteboard/personal-pasteboard/Claude_技能_Skills/github_trending/github_trending_cybersecurity.md"
   ],
   "output_files": [
