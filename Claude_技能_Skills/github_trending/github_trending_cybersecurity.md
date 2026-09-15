@@ -1,6 +1,6 @@
 # 🌟 GitHub 热门项目 - 网络安全
 
-> 自动生成时间: 2026-06-01 13:09:52
+> 自动生成时间: 2026-09-15 04:20:05
 > 最小 Star 数: 500
 > 更新周期: 每天
 
@@ -8,121 +8,121 @@
 
 ### 1. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
-⭐ **84,307** stars | 🍴 9,836 forks | 💻 Python
+⭐ **91,560** stars | 🍴 10,774 forks | 💻 Python
 
 📝 **描述**: Hunt down social media accounts by username across social networks
 
 🏷️ **标签**: cli, cti, cybersecurity, forensics, hacktoberfest
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-15
 
 ---
 
-### 2. [caddyserver/caddy](https://github.com/caddyserver/caddy)
+### 2. [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-⭐ **72,887** stars | 🍴 4,763 forks | 💻 Go
+⭐ **83,501** stars | 🍴 11,486 forks | 💻 None
+
+📝 **描述**: List of Computer Science courses with video lectures.
+
+🏷️ **标签**: algorithms, bioinformatics, computational-biology, computational-physics, computer-architecture
+
+📅 **最后更新**: 2026-09-14
+
+---
+
+### 3. [caddyserver/caddy](https://github.com/caddyserver/caddy)
+
+⭐ **75,742** stars | 🍴 4,958 forks | 💻 Go
 
 📝 **描述**: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 🏷️ **标签**: acme, automatic-https, caddy, caddyfile, go
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-15
 
 ---
 
-### 3. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+### 4. [usestrix/strix](https://github.com/usestrix/strix)
 
-⭐ **53,734** stars | 🍴 2,393 forks | 💻 C++
+⭐ **62,483** stars | 🍴 6,846 forks | 💻 Python
+
+📝 **描述**: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+🏷️ **标签**: agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security
+
+📅 **最后更新**: 2026-09-15
+
+---
+
+### 5. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+
+⭐ **54,804** stars | 🍴 2,452 forks | 💻 C++
 
 📝 **描述**: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 🏷️ **标签**: analyzer, binary-analysis, c-plus-plus, cpp, cybersecurity
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-15
 
 ---
 
-### 4. [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
+### 6. [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
 
-⭐ **48,542** stars | 🍴 2,751 forks | 💻 C++
+⭐ **49,507** stars | 🍴 2,839 forks | 💻 C++
 
 📝 **描述**: An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 🏷️ **标签**: binary-analysis, ctf, cybersecurity, debugger, debugging
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-15
 
 ---
 
-### 5. [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+### 7. [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
 
-⭐ **44,052** stars | 🍴 5,092 forks | 💻 TypeScript
-
-📝 **描述**: Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
-
-🏷️ **标签**: penetration-testing, pentesting, security-audit, security-automation, security-tools
-
-📅 **最后更新**: 2026-06-01
-
----
-
-### 6. [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
-
-⭐ **43,743** stars | 🍴 4,568 forks | 💻 Python
+⭐ **45,054** stars | 🍴 4,730 forks | 💻 Python
 
 📝 **描述**: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
 🏷️ **标签**: debugging, http, http2, man-in-the-middle, mitmproxy
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-15
 
 ---
 
-### 7. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+### 8. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-⭐ **37,852** stars | 🍴 1,538 forks | 💻 Rust
+⭐ **41,110** stars | 🍴 1,959 forks | 💻 Rust
 
-📝 **描述**: Comfortably monitor your Internet traffic 🕵️‍♂️
+📝 **描述**: Comfortably monitor your network traffic 🕵️‍♂️
 
-🏷️ **标签**: application, gui, iced, linux, macos
+🏷️ **标签**: app, application, gui, iced, ip-geolocation
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-15
 
 ---
 
-### 8. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+### 9. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
-⭐ **35,262** stars | 🍴 404 forks | 💻 Go
+⭐ **37,914** stars | 🍴 685 forks | 💻 Go
 
 📝 **描述**: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 🏷️ **标签**: containers, devsecops, docker, go, golang
 
-📅 **最后更新**: 2026-06-01
-
----
-
-### 9. [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
-
-⭐ **32,139** stars | 🍴 4,470 forks | 💻 Python
-
-📝 **描述**: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-🏷️ **标签**: application-security, appsec, best-practices, cheatsheets, code
-
-📅 **最后更新**: 2026-05-31
+📅 **最后更新**: 2026-09-15
 
 ---
 
 ### 10. [soxoj/maigret](https://github.com/soxoj/maigret)
 
-⭐ **31,161** stars | 🍴 2,229 forks | 💻 Python
+⭐ **37,540** stars | 🍴 2,929 forks | 💻 Python
 
 📝 **描述**: 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 
 🏷️ **标签**: cli, cybersecurity, identification, information-gathering, infosec
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-15
 
 ---
 
@@ -152,7 +152,7 @@
 
 ## 📖 更新日志
 
-- 2026-06-01: 自动更新 10 个项目
+- 2026-09-15: 自动更新 10 个项目
 
 ---
 
