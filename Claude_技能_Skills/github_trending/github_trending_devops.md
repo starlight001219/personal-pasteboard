@@ -1,6 +1,6 @@
 # 🌟 GitHub 热门项目 - DevOps
 
-> 自动生成时间: 2026-06-01 13:09:58
+> 自动生成时间: 2026-09-19 04:03:20
 > 最小 Star 数: 500
 > 更新周期: 每天
 
@@ -8,121 +8,121 @@
 
 ### 1. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
-⭐ **122,590** stars | 🍴 43,226 forks | 💻 Go
+⭐ **127,819** stars | 🍴 44,590 forks | 💻 Go
 
 📝 **描述**: Production-Grade Container Scheduling and Management
 
 🏷️ **标签**: cncf, containers, go, kubernetes
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-19
 
 ---
 
-### 2. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+### 2. [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
-⭐ **87,501** stars | 🍴 7,925 forks | 💻 JavaScript
-
-📝 **描述**: A fancy self-hosted monitoring tool
-
-🏷️ **标签**: docker, monitor, monitoring, responsive, self-hosted
-
-📅 **最后更新**: 2026-06-01
-
----
-
-### 3. [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-
-⭐ **79,961** stars | 🍴 7,006 forks | 💻 TypeScript
+⭐ **92,527** stars | 🍴 8,898 forks | 💻 Java
 
 📝 **描述**: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 🏷️ **标签**: docker, hacktoberfest, java, pdf, pdf-converter
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-19
 
 ---
 
-### 4. [netdata/netdata](https://github.com/netdata/netdata)
+### 3. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-⭐ **79,005** stars | 🍴 6,448 forks | 💻 C
+⭐ **91,543** stars | 🍴 8,439 forks | 💻 JavaScript
+
+📝 **描述**: A fancy self-hosted monitoring tool
+
+🏷️ **标签**: docker, monitor, monitoring, responsive, self-hosted
+
+📅 **最后更新**: 2026-09-19
+
+---
+
+### 4. [macrozheng/mall](https://github.com/macrozheng/mall)
+
+⭐ **84,797** stars | 🍴 29,829 forks | 💻 Java
+
+📝 **描述**: mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+
+🏷️ **标签**: docker, elasticsearch, elk, java, mongodb
+
+📅 **最后更新**: 2026-09-19
+
+---
+
+### 5. [netdata/netdata](https://github.com/netdata/netdata)
+
+⭐ **80,576** stars | 🍴 6,629 forks | 💻 Go
 
 📝 **描述**: The fastest path to AI-powered full stack observability, even for lean teams.
 
 🏷️ **标签**: ai, alerting, cncf, data-visualization, database
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-19
 
 ---
 
-### 5. [moby/moby](https://github.com/moby/moby)
+### 6. [moby/moby](https://github.com/moby/moby)
 
-⭐ **71,612** stars | 🍴 18,961 forks | 💻 Go
+⭐ **72,108** stars | 🍴 19,233 forks | 💻 Go
 
 📝 **描述**: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 🏷️ **标签**: containers, docker, go, golang
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-18
 
 ---
 
-### 6. [nektos/act](https://github.com/nektos/act)
+### 7. [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
-⭐ **70,560** stars | 🍴 1,946 forks | 💻 Go
+⭐ **67,835** stars | 🍴 3,229 forks | 💻 Rust
 
-📝 **描述**: Run your GitHub Actions locally 🚀
+📝 **描述**: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
-🏷️ **标签**: ci, devops, github-actions, golang
+🏷️ **标签**: bitwarden, bitwarden-rs, docker, rocket, rust
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-19
 
 ---
 
-### 7. [traefik/traefik](https://github.com/traefik/traefik)
+### 8. [traefik/traefik](https://github.com/traefik/traefik)
 
-⭐ **63,387** stars | 🍴 6,025 forks | 💻 Go
+⭐ **64,899** stars | 🍴 6,201 forks | 💻 Go
 
 📝 **描述**: The Cloud Native Application Proxy
 
 🏷️ **标签**: consul, docker, etcd, go, golang
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-19
 
 ---
 
-### 8. [usememos/memos](https://github.com/usememos/memos)
+### 9. [usememos/memos](https://github.com/usememos/memos)
 
-⭐ **60,288** stars | 🍴 4,438 forks | 💻 Go
+⭐ **63,163** stars | 🍴 4,768 forks | 💻 Go
 
 📝 **描述**: Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 
 🏷️ **标签**: docker, foss, go, markdown, memo
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-19
 
 ---
 
-### 9. [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+### 10. [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
 
-⭐ **58,652** stars | 🍴 24,467 forks | 💻 Python
+⭐ **62,398** stars | 🍴 24,882 forks | 💻 Python
 
 📝 **描述**: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 
 🏷️ **标签**: ai, bark, data-analysis, docker, hot-news
 
-📅 **最后更新**: 2026-06-01
-
----
-
-### 10. [coollabsio/coolify](https://github.com/coollabsio/coolify)
-
-⭐ **56,278** stars | 🍴 4,682 forks | 💻 PHP
-
-📝 **描述**: An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-
-🏷️ **标签**: coolify, databases, deployment, docker, docker-compose
-
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-09-19
 
 ---
 
@@ -152,7 +152,7 @@
 
 ## 📖 更新日志
 
-- 2026-06-01: 自动更新 10 个项目
+- 2026-09-19: 自动更新 10 个项目
 
 ---
 
