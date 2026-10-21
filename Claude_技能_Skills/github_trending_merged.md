@@ -1,14 +1,14 @@
 # 🌟 GitHub 热门项目汇总
 
-> 自动合并时间: 2026-10-20 05:36:56
+> 自动合并时间: 2026-10-21 05:38:42
 > 项目总数: 30
-> 分类: devops, cybersecurity, software_development
+> 分类: software_development, cybersecurity, devops
 
 ## 📊 分类统计
 
-- ⚙️ **Devops**: 10 个项目
-- 🔒 **Cybersecurity**: 10 个项目
 - 💻 **Software Development**: 10 个项目
+- 🔒 **Cybersecurity**: 10 个项目
+- ⚙️ **Devops**: 10 个项目
 
 
 ## 🏆 Top 20 热门项目
