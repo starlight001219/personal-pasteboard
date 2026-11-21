@@ -1,6 +1,6 @@
 # 🌟 GitHub 热门项目 - 软件开发
 
-> 自动生成时间: 2026-06-01 13:09:45
+> 自动生成时间: 2026-11-21 06:31:40
 > 最小 Star 数: 500
 > 更新周期: 每天
 
@@ -8,121 +8,121 @@
 
 ### 1. [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
-⭐ **438,274** stars | 🍴 48,032 forks | 💻 Python
+⭐ **500,536** stars | 🍴 56,189 forks | 💻 Python
 
 📝 **描述**: A collective list of free APIs
 
 🏷️ **标签**: api, apis, dataset, development, free
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-11-21
 
 ---
 
-### 2. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+### 2. [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
-⭐ **389,317** stars | 🍴 66,371 forks | 💻 Python
+⭐ **336,106** stars | 🍴 29,132 forks | 💻 Python
 
-📝 **描述**: :books: Freely available programming books
+📝 **描述**: The definitive list that answers "I want to do X in Python, which tool should I use?"
 
-🏷️ **标签**: books, education, hacktoberfest, list, resource
+🏷️ **标签**: awesome, awesome-list, python, python-frameworks, python-libraries
 
-📅 **最后更新**: 2026-06-01
-
----
-
-### 3. [vinta/awesome-python](https://github.com/vinta/awesome-python)
-
-⭐ **300,646** stars | 🍴 28,008 forks | 💻 Python
-
-📝 **描述**: An opinionated list of Python frameworks, libraries, tools, and resources
-
-🏷️ **标签**: awesome, collections, python, python-frameworks, python-libraries
-
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-11-21
 
 ---
 
-### 4. [facebook/react](https://github.com/facebook/react)
+### 3. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
-⭐ **245,363** stars | 🍴 51,143 forks | 💻 JavaScript
-
-📝 **描述**: The library for web and native user interfaces.
-
-🏷️ **标签**: declarative, frontend, javascript, library, react
-
-📅 **最后更新**: 2026-06-01
-
----
-
-### 5. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-
-⭐ **200,918** stars | 🍴 30,826 forks | 💻 JavaScript
+⭐ **307,965** stars | 🍴 45,321 forks | 💻 JavaScript
 
 📝 **描述**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 🏷️ **标签**: ai-agents, anthropic, claude, claude-code, developer-tools
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-11-21
 
 ---
 
-### 6. [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+### 4. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 
-⭐ **196,024** stars | 🍴 31,064 forks | 💻 JavaScript
+⭐ **290,128** stars | 🍴 36,847 forks | 💻 Python
 
-📝 **描述**: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+📝 **描述**: Curated list of project-based tutorials
 
-🏷️ **标签**: algorithm, algorithms, computer-science, data-structures, interview
+🏷️ **标签**: beginner-project, cpp, golang, javascript, project
 
-📅 **最后更新**: 2026-06-01
-
----
-
-### 7. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-⭐ **184,681** stars | 🍴 46,201 forks | 💻 Python
-
-📝 **描述**: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-🏷️ **标签**: agentic-ai, agents, ai, artificial-intelligence, autonomous-agents
-
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-11-21
 
 ---
 
-### 8. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+### 5. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
-⭐ **174,964** stars | 🍴 29,768 forks | 💻 Python
+⭐ **265,041** stars | 🍴 59,889 forks | 💻 Python
 
 📝 **描述**: The agent that grows with you
 
 🏷️ **标签**: ai, ai-agent, ai-agents, anthropic, chatgpt
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-11-21
 
 ---
 
-### 9. [huggingface/transformers](https://github.com/huggingface/transformers)
+### 6. [react/react](https://github.com/react/react)
 
-⭐ **161,140** stars | 🍴 33,376 forks | 💻 Python
+⭐ **252,839** stars | 🍴 51,800 forks | 💻 JavaScript
 
-📝 **描述**: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+📝 **描述**: The library for web and native user interfaces.
 
-🏷️ **标签**: audio, deep-learning, deepseek, gemma, glm
+🏷️ **标签**: declarative, frontend, javascript, library, react
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-11-21
 
 ---
 
-### 10. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+### 7. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-⭐ **159,557** stars | 🍴 12,090 forks | 💻 Python
+⭐ **209,465** stars | 🍴 18,498 forks | 💻 Python
 
-📝 **描述**: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+📝 **描述**: A feature-rich command-line audio/video downloader
 
-🏷️ **标签**: awesome, github, hellogithub, python
+🏷️ **标签**: cli, downloader, python, sponsorblock, youtube-dl
 
-📅 **最后更新**: 2026-06-01
+📅 **最后更新**: 2026-11-21
+
+---
+
+### 8. [anthropics/skills](https://github.com/anthropics/skills)
+
+⭐ **198,150** stars | 🍴 23,193 forks | 💻 Python
+
+📝 **描述**: Public repository for Agent Skills
+
+🏷️ **标签**: agent-skills
+
+📅 **最后更新**: 2026-11-21
+
+---
+
+### 9. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+⭐ **188,120** stars | 🍴 45,833 forks | 💻 Python
+
+📝 **描述**: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+🏷️ **标签**: agentic-ai, agents, ai, artificial-intelligence, autonomous-agents
+
+📅 **最后更新**: 2026-11-21
+
+---
+
+### 10. [twbs/bootstrap](https://github.com/twbs/bootstrap)
+
+⭐ **175,104** stars | 🍴 78,766 forks | 💻 JavaScript
+
+📝 **描述**: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+🏷️ **标签**: bootstrap, css, css-framework, html, javascript
+
+📅 **最后更新**: 2026-11-21
 
 ---
 
@@ -152,7 +152,7 @@
 
 ## 📖 更新日志
 
-- 2026-06-01: 自动更新 10 个项目
+- 2026-11-21: 自动更新 10 个项目
 
 ---
 
